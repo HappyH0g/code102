@@ -1,4 +1,4 @@
-git checkout -b "name"
+yeah, git checkout -b "name"
 or
 git branch "branch name"
 git checkout "
