@@ -4,3 +4,4 @@ You want to preview before you commit.
 -p gives you your options
 
 1. check for questions about javascript.
+2. Learn virtual desktop for windows.
